@@ -1,6 +1,6 @@
 # myPortfolio
 Portfolio showcasing my most recent projects.
-Built using html and CSS
+Built using HTML and CSS
 
 https://candiceparker.netlify.app
 
