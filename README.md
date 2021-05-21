@@ -1,6 +1,7 @@
 # myPortfolio
 Portfolio showcasing my most recent projects.
-Built using HTML and CSS.
+Built using HTML and CSS. 
+Utlized flexbox and grid system for responsive layout.
 
 https://candiceparker.netlify.app
 
